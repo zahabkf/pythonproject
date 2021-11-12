@@ -5,10 +5,9 @@ import pyaudio
 import speech_recognition as sr
 from wikipedia.wikipedia import languages, search
 import wikipedia
-import pyaudio
+import PyAudio
 import pyttsx3
 from gtts import gTTS
-from typing import Text
 from webdriver_manager.chrome import ChromeDriverManager
 
 
